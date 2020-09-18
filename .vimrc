@@ -53,3 +53,4 @@ highlight CursorLine guibg=#303000 ctermbg=234
 
 "Disable beep
 set visualbell
+"Disable beep
