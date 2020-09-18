@@ -54,4 +54,3 @@ highlight CursorLine guibg=#303000 ctermbg=234
 "Disable beep
 set visualbell
 "Test git
-"Test git
