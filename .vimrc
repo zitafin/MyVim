@@ -30,6 +30,7 @@ let g:syntastic_php_checkers = ['phpcs']
 let g:airline_theme='light'
 
 "MY Default
+set noswapfile
 set nu 
 syntax on
 set path=$PWD/**
